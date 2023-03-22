@@ -8,8 +8,7 @@ I've been Beginner Coding Program
 
 *   🌍  I'm based in Kampheang Phet, Thailand
 *   🖥️  See my portfolio at [Don't hane anythings in here.](http://https://bio.link/abnormal_position)
-*   ✉️  You can contact me at [khunsupharuek@gmail.com](mailto:khunsupharuek@gmail.com)<a href="https://www.github.com/Ampxqt" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Ampxqt?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a>### Skills 
+*   ✉️  You can contact me at [khunsupharuek@gmail.com](mailto:khunsupharuek@gmail.com)### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
