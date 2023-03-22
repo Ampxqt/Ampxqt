@@ -19,9 +19,8 @@ I've been Beginner Coding Program
                     
 ### Socials
    
-   
-<p align="left">                          
-<a href="https://www.github.com/Ampxqt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://www.github.com/Ampxqt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<b>My GitHub Stats</b>
 
 </p>### Badges<b>My GitHub Stats</b>
 
