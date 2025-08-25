@@ -8,7 +8,7 @@ I've been Beginner Coding Program
 
 *   🌍  I'm based in Kampheang Phet, Thailand
 *   🖥️  See my portfolio at [Don't hane anythings in here.](http://https://bio.link/abnormal_position)
-*   ✉️  You can contact me at [khunsupharuek@gmail.com](mailto:khunsupharuek@gmail.com)### Skills 
+*   ✉️  You can contact me at [khunsupharuek@gmail.com](mailto:khunsupharuek@gmail.com)
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
